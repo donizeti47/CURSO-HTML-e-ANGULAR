@@ -1,0 +1,152 @@
+
+
+
+## Tags HTML e Suas Utilizações
+
+* **`<h1>` a `<h6>`**
+    * **Nome:** Heading (Título)
+    * **Tradução:** Título
+    * **Quando usar:** Para definir **títulos e subtítulos** de uma página, sendo `<h1>` o mais importante (o título principal) e `<h6>` o menos importante. Usamos para estruturar o conteúdo e indicar hierarquia.
+
+* **`<p>`**
+    * **Nome:** Paragraph
+    * **Tradução:** Parágrafo
+    * **Quando usar:** Para definir **parágrafos de texto** comum. É a tag mais usada para conteúdo textual.
+
+* **`<a>`**
+    * **Nome:** Anchor (Âncora)
+    * **Tradução:** Link
+    * **Quando usar:** Para criar **links** (hiperlinks) que levam para outras páginas da web, arquivos ou partes diferentes da mesma página.
+
+* **`<hr>`**
+    * **Nome:** Horizontal Rule (Regra Horizontal)
+    * **Tradução:** Linha Horizontal
+    * **Quando usar:** Para criar uma **linha horizontal** que serve como um divisor temático entre blocos de conteúdo.
+
+* **`<ul>`**
+    * **Nome:** Unordered List (Lista Não Ordenada)
+    * **Tradução:** Lista Não Ordenada
+    * **Quando usar:** Para criar uma **lista de itens sem uma ordem específica**, geralmente apresentada com marcadores (bolinhas).
+
+* **`<li>`**
+    * **Nome:** List Item (Item de Lista)
+    * **Tradução:** Item de Lista
+    * **Quando usar:** Para definir **cada item individual** dentro de uma lista (`<ul>` ou `<ol>`).
+
+* **`<mark>`**
+    * **Nome:** Mark (Marca)
+    * **Tradução:** Marcação/Destaque
+    * **Quando usar:** Para **destacar ou realçar** partes de texto que são de particular relevância, como se estivesse usando um marca-texto.
+
+* **`<ol>`**
+    * **Nome:** Ordered List (Lista Ordenada)
+    * **Traducão:** Lista Ordenada
+    * **Quando usar:** Para criar uma **lista de itens com uma ordem específica**, geralmente apresentada com números ou letras.
+
+* **`<strong>`**
+    * **Nome:** Strong Importance (Forte Importância)
+    * **Tradução:** Forte
+    * **Quando usar:** Para indicar que um trecho de texto tem **forte importância** e deve ser lido com ênfase (geralmente renderizado em negrito).
+
+* **`<i>`**
+    * **Nome:** Italic (Itálico)
+    * **Tradução:** Itálico
+    * **Quando usar:** Para texto que deve ser apresentado em **itálico**, geralmente usado para termos técnicos, frases estrangeiras, ou pensamentos.
+
+* **`<em>`**
+    * **Nome:** Emphasis (Ênfase)
+    * **Tradução:** Ênfase
+    * **Quando usar:** Para indicar **ênfase semântica** em um trecho de texto (geralmente renderizado em itálico). Diferente de `<i>`, que é mais para estilo.
+
+* **`<b>`**
+    * **Nome:** Bold (Negrito)
+    * **Tradução:** Negrito
+    * **Quando usar:** Para texto que deve ser apresentado em **negrito** sem adicionar uma importância semântica. Usado para destacar palavras-chave ou nomes.
+
+
+
+
+
+//////////////////////////////////////////////////////////////////////
+
+
+
+
+
+
+
+//////////////////////////////////////////////////////////////////////
+
+
+
+
+
+
+
+
+//////////////////////////////////////////////////////////////////////
+
+
+
+
+
+
+
+//////////////////////////////////////////////////////////////////////
+
+
+
+
+
+
+
+
+//////////////////////////////////////////////////////////////////////
+
+
+
+
+
+
+
+//////////////////////////////////////////////////////////////////////
+
+
+
+
+
+
+
+
+//////////////////////////////////////////////////////////////////////
+
+
+
+
+
+
+
+//////////////////////////////////////////////////////////////////////
+
+
+
+
+
+
+
+
+//////////////////////////////////////////////////////////////////////
+
+
+
+
+
+
+
+//////////////////////////////////////////////////////////////////////
+
+
+
+
+
+
